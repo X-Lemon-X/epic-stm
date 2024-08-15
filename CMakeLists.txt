@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.15)
 
 project(epic-stm VERSION 1.0.0 LANGUAGES CXX C)
+add_library(${PROJECT_NAME} MODULE)
+# include(GNUInstallDirs)
 
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
