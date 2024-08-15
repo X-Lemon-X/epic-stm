@@ -1,5 +1,4 @@
 
-#include "main.h"
 #include "encoder.hpp"
 #include "stm32f4xx_hal.h"
 // #include <stdexcept>

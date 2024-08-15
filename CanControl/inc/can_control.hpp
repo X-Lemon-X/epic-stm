@@ -1,9 +1,6 @@
 #include "stm32f4xx_hal.h"
 #include "pin.hpp"
-#include "main.h"
 #include "Timing.hpp"
-#include <list>
-#include "list.hpp"
 #include "circular_buffor.hpp"
 
 #ifndef CAN_CONTROL_HPP

@@ -1,7 +1,6 @@
 #ifndef ENCODERS_H
 #define ENCODERS_H
 
-#include "main.h"
 // #include <deque>
 #include "Timing.hpp"
 #include "filter.hpp"

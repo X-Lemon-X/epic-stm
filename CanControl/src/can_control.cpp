@@ -1,11 +1,8 @@
 
 #include "can_control.hpp"
 #include "stm32f4xx_hal.h"
-#include "main.h"
-#include "main_prog.hpp"
 #include <string.h>
 #include "stdlib.h"
-#include "list.hpp"
 #include "circular_buffor.hpp"
 
 
